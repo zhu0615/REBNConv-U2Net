@@ -1,2 +1,2 @@
-# REBNConv-U2Net
+# HADSConv-U2Net
 More details about the code will be updated in the future
